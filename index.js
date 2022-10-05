@@ -15,7 +15,8 @@ let givenName = forNavn + space + mellemNavn + space + efterNavn
 console.log("Hey! My Given Name is:", givenName)
 
 //Calculating my birthyear using Js and saving to the variable.
-let myAge = 65
+let myAge = 29
 let currentYear = 2022
 let birthYear = currentYear - myAge
 console.log("I was born in the year:", birthYear)
+//console.log(birthYear)
